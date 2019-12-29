@@ -62,7 +62,7 @@ print("")
 ######################
 
 print("Enter some form of the word \"Yes\"")
-answer = raw_input() ##input()##DOES##NOT##WORK##IN##2.7.16##
+answer = input() ##input()##DOES##NOT##WORK##IN##2.7.16##
 print("You entered:")
 print(answer)
 print("")
@@ -73,7 +73,7 @@ if answer == "yes":
     print("")
 
 print("Enter some form of the word \"Yes\"")
-answer = raw_input() ##input()##DOES##NOT##WORK##IN##2.7.16##
+answer = input() ##input()##DOES##NOT##WORK##IN##2.7.16##
 print("You entered:")
 print(answer)
 print("")
@@ -84,7 +84,7 @@ if answer == 'YES':
     print("")
 
 print("Enter some form of the word \"Yes\"")
-answer = raw_input() ##input()##DOES##NOT##WORK##IN##2.7.16##
+answer = input() ##input()##DOES##NOT##WORK##IN##2.7.16##
 print("You entered:")
 print(answer)
 print("")
