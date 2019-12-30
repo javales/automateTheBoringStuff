@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="faac170d-f79b-4e25-b85a-96c963933f01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/automateTheBoringStuff.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/automateTheBoringStuff.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autoDemo-moreAboutStrings.py" beforeDir="false" afterPath="$PROJECT_DIR$/autoDemo-moreAboutStrings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autoDemo-RunningProgramsFromTheCommandLine.py" beforeDir="false" afterPath="$PROJECT_DIR$/autoDemo-RunningProgramsFromTheCommandLine.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +17,13 @@
   <component name="ProjectId" id="1UmSmdqJq4XMxNSAG3H1FHpYxPg" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
