@@ -341,6 +341,7 @@ print('')
 
 
 #Dot Star means ANYTHING because . is Anything But Newline while * is 0 or More
+#so, "anything plus 0 or more of that anything"
 #Greedy Matching
 nameFirstLastString = 'First Name: Al Last Name: Stewart'
 nameRegex = re.compile(r'First Name: (.*) Last Name: (.*)')
@@ -398,6 +399,74 @@ print('Lesson 27. Regex Dot-Star and the Caret/Dollar Characters')
 print('ENDS HERE')
 print('+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++')
 print('')
+
+
+
+
+print('+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++')
+print('Lesson 28. Regex sub() Method and Verbose Mode')
+print('STARTS HERE')
+print('-----------------------------------------------------------')
+print('')
+
+agentNamesHere = 'Agent Alice gave the secret docs to Agent Scully'
+print('String manipulated:')
+print(agentNamesHere)
+print('')
+
+namesRegex = re.compile(r'Agent \w+')
+matchObject = namesRegex.findall(agentNamesHere)
+print('Agent names found in string:')
+print(matchObject)
+print('')
+
+#Find and replace the agent names using the sub() method
+matchObject = namesRegex.sub('***REDACTED***',agentNamesHere)
+print('Agent names redacted from string using replacement by sub() method:')
+print(matchObject)
+print('')
+
+#Use slash number syntax to use part of the target pattern match in output
+namesRegex = re.compile(r'Agent (\w)\w*') #one word character in group followed by zero or more word characters
+matchObject = namesRegex.findall(agentNamesHere)
+print('Agent name first character found in string returned because it is captured in group 1:')
+print(matchObject)
+print('')
+matchObject = namesRegex.sub(r'Agent \1******', agentNamesHere)
+print('Using group 1 character to dynamically generate the text used in the sub() replacement text')
+print(matchObject)
+print('')
+
+#Verbose regular expression strings -- Verbose Mode with re.VERBOSE
+
+#use ''' to make complex regex object definition easier to read across multiple lines allowing for commenting
+verboseText = re.compile(r'''
+(\d\d\d-)|      #area code
+(\(\d\d\d\)-)   #or area code with parentheses
+\d\d\d          #first three digits
+-               #second dash
+\d\d\d\d        #last four digits
+\sx\d{2,4}      #extension, like 1234''', re.VERBOSE | re.DOTALL | re.VERBOSE) #the Pipe here is the Bitwise Or Operator allowing adding more than one option in the second argument cummulatively
+
+print('-----------------------------------------------------------')
+print('Lesson 28. Regex sub() Method and Verbose Mode')
+print('ENDS HERE')
+print('+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++')
+print('')
+
+print('++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++')
+print('Lesson 29.  Regex Example Program: A Phone and Email Scraper')
+print('STARTS HERE')
+print('------------------------------------------------------------')
+print('')
+
+print('------------------------------------------------------------')
+print('Lesson 29.  Regex Example Program: A Phone and Email Scraper')
+print('ENDS HERE')
+print('++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++')
+print('')
+
+# Created new file instead
 
 print('+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++')
 print('Lesson XX. ...')
