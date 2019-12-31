@@ -274,3 +274,139 @@ print('Lesson 26. Regex Character Classes and the findall() Method')
 print('ENDS HERE')
 print('+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++')
 print('')
+
+
+print('+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++')
+print('Lesson 27. Regex Dot-Star and the Caret/Dollar Characters')
+print('STARTS HERE')
+print('-----------------------------------------------------------')
+print('')
+
+#Must begin with versus must end with
+stringHell = ('Yeah Yeah Hello')
+stringHello = ('Hello, Yeah')
+beginsWithHelloRegex = re.compile(r'^Hello')
+matchObject18 = beginsWithHelloRegex.search(stringHell)
+matchObject19 = beginsWithHelloRegex.search(stringHello)
+print('Didn\'t match since not starting with Hello')
+print(matchObject18)
+print('')
+print('Matches since starting with Hello')
+print(matchObject19.group())
+print(matchObject19)
+print('')
+
+stringPlease = 'Some more, Please'
+stringPleez = 'Oh Puh-leez'
+regexPlease = re.compile(r'Please$')
+matchObject = regexPlease.search(stringPlease)
+print('Matching stringPlease since ending with Please')
+print(matchObject.group())
+print('From ' + '"' + stringPlease + '"')
+print('')
+matchObject = regexPlease.search((stringPleez))
+print('Not matching stingPleez since no end Please')
+print(matchObject)
+print('From ' + '"' + stringPleez + '"')
+print('')
+
+#Combine both beginning with ending with
+digitsAll = '1232132403'
+digitsNotAll = '23423429d32342342'
+allDigitsRegex = re.compile(r'^\d+$')
+matchObject = allDigitsRegex.search(digitsAll)
+matchObject2 = allDigitsRegex.search(digitsNotAll)
+print('String does begin and end only with digits')
+print(matchObject.group())
+print('String does not begin and end only with digits due to letter in middle')
+print(matchObject2)
+print('')
+
+#Period or dot stands for any SINGLE character EXCEPT for newline
+catsString = 'The cat in the hat sat on the flat mat'
+atRegex = re.compile(r'.at')
+atRegexOneOrTwo = re.compile(r'.{1,2}at')
+matchObject = atRegex.findall(catsString)
+print('All matches for any string pattern ending in "at" but with only one character ahead')
+print(matchObject)
+print('From string "' + catsString + '" (notice how "flat" is not included)')
+print('')
+
+matchObject = atRegexOneOrTwo.findall(catsString)
+print('All matches for any string pattern ending in "at" and with one or two characters ahead')
+print(matchObject)
+print('From string "' + catsString + '" (notice how spaces are included ahead in addition to flat)')
+print('')
+
+
+
+#Dot Star means ANYTHING because . is Anything But Newline while * is 0 or More
+#Greedy Matching
+nameFirstLastString = 'First Name: Al Last Name: Stewart'
+nameRegex = re.compile(r'First Name: (.*) Last Name: (.*)')
+matchObject = nameRegex.findall(nameFirstLastString)
+print('Pulling the First and Last Names out of "First Name: Al Last Name: Stewart"')
+print(matchObject)
+print('')
+
+#Non-Greedy Matching
+serve = '<I eat breakfast> and brunch.>'
+
+nonGreedyRegex = re.compile(r'<(.*?)>')
+matchObject = nonGreedyRegex.findall(serve)
+print('Non-greedy match between <> using .*?')
+print(matchObject)
+print('')
+
+GreedyRegex = re.compile(r'<(.*)>')
+matchObject = GreedyRegex.findall(serve)
+print('Greedy match between <> without ? at end')
+print(matchObject)
+print('')
+
+#Force . to include newline using re.DOTALL argument
+primeObjective = 'Robocop serves the public trust.\nProtects the innocent.\nUpholds the law.'
+print(primeObjective)
+print('')
+
+dotStarRegex = re.compile(r'.*')
+matchObject = dotStarRegex.search(primeObjective)
+print('Print what .* finds in above string that will not include newlines')
+print(matchObject.group())
+print('')
+
+dotStarAllRegex = re.compile(r'.*', re.DOTALL)
+matchObject = dotStarAllRegex.search(primeObjective)
+print('Print what .* plus re.DOTALL finds in above string with newlines')
+print(matchObject.group())
+print('')
+
+#Force ignoring case with re.IGNORECASE
+vowelRegex = re.compile(r'[aeiou]')
+matchObject = vowelRegex.findall('What\'s with ROBOCOP?')
+print('Printing just the lowercase vowel matches of "What\'s with ROBOCOP?"')
+print(matchObject)
+
+vowelRegex = re.compile(r'[aeiou]', re.IGNORECASE) #can also shorthand as re.I
+matchObject = vowelRegex.findall('What\'s with ROBOCOP?')
+print('Printing both the lowercase and uppercase vowel matches of "What\'s with ROBOCOP?"')
+print(matchObject)
+print('')
+
+print('-----------------------------------------------------------')
+print('Lesson 27. Regex Dot-Star and the Caret/Dollar Characters')
+print('ENDS HERE')
+print('+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++')
+print('')
+
+print('+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++')
+print('Lesson XX. ...')
+print('STARTS HERE')
+print('-----------------------------------------------------------')
+print('')
+
+print('-----------------------------------------------------------')
+print('Lesson XX. ...')
+print('ENDS HERE')
+print('+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++')
+print('')
