@@ -1,0 +1,3 @@
+random text to read
+by Python test script
+Lesson 31

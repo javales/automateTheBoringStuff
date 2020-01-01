@@ -2,9 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="faac170d-f79b-4e25-b85a-96c963933f01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/autoDemo-Files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filesDemo/filesDemoFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoDemo-FilesCreate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filesDemo/myData.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moveStuffAround/FirstFolder/AnotherFolder/DeleteHere/DeleteContents/DeleteThisFolder/deleteThis.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moveStuffAround/FirstFolder/AnotherFolder/DeleteHere/DeleteContents/deleteThis copy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moveStuffAround/FirstFolder/AnotherFolder/DeleteHere/DeleteContents/deleteThis.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moveStuffAround/FirstFolder/AnotherFolder/DeleteHere/DeleteThisFolder/deleteThis.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moveStuffAround/FirstFolder/AnotherFolder/DeleteHere/DeleteThisTree/deleteThis.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moveStuffAround/FirstFolder/AnotherFolder/DeleteHere/deleteThis.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moveStuffAround/FirstFolder/filesDemoFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moveStuffAround/FirstFolder/filesDemoFileRenamed.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moveStuffAround/SecondFolder/AnotherFolder/DeleteHere/DeleteContents/DeleteThisFolder/deleteThis.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moveStuffAround/SecondFolder/AnotherFolder/DeleteHere/DeleteContents/deleteThis copy 2.rxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moveStuffAround/SecondFolder/AnotherFolder/DeleteHere/DeleteContents/deleteThis copy 2.rxt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moveStuffAround/SecondFolder/AnotherFolder/DeleteHere/DeleteContents/deleteThis copy 3.rxt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moveStuffAround/SecondFolder/AnotherFolder/DeleteHere/DeleteContents/deleteThis copy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moveStuffAround/SecondFolder/AnotherFolder/DeleteHere/DeleteContents/deleteThis.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moveStuffAround/SecondFolder/AnotherFolder/DeleteHere/DeleteContents/deleteThiscopy2.rxt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moveStuffAround/SecondFolder/AnotherFolder/DeleteHere/DeleteThisFolder/deleteThis.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moveStuffAround/SecondFolder/AnotherFolder/DeleteHere/DeleteThisTree/deleteThis.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moveStuffAround/SecondFolder/AnotherFolder/DeleteHere/deleteThis.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moveStuffAround/SecondFolder/filesDemoFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moveStuffAround/SecondFolder/filesDemoFileRenamed.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moveStuffAround/SecondFolder/myDataMoved.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moveStuffAround/filesDemoFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openApendToThis.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/openThis.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autoDemo-Files.py" beforeDir="false" afterPath="$PROJECT_DIR$/autoDemo-Files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filesDemo/filesDemoFile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/filesDemo/filesDemoFile.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
