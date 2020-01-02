@@ -309,10 +309,39 @@ for filename in os.listdir('/Proj/study/udemy/automateTheBoringStuff/moveStuffAr
 print('')
 
 
-
+print('### Lesson 33. Deleting Files')
+print('#   ENDS HERE')
+print('#########################################################')
 print('')
 
-print('### Lesson 33. Deleting Files')
+
+print('#########################################################')
+print('### Lesson 34. Walking a Directory Tree')
+print('#   ENDS HERE')
+print('')
+
+#import os already done earlier
+#pass os.walk() the root folder of the tree you want to check
+#os.walk() MUST be used in a for loop as it returns three values with each iteration
+
+for folderName, subfolders, filenames in os.walk('/Proj/study/udemy/automateTheBoringStuff/filesDemo'):  #first argument is root, second is folders under that root, and third is files under that root
+    print('The folder is ' + folderName)
+    print('The subfolders in ' + folderName + ' are: ' + str(subfolders))
+    print('The filenames in ' + folderName + ' are: ' + str(filenames))
+    print('')
+
+    #Within loop, can peform some actions
+    for subfolder in subfolders:
+        if 'fish' in subfolder:
+            print('Remove folder command against fish match here using os.rmdir() triggered by ' + subfolder)
+            #os.rmdir(subfolder)
+    for file in filenames:
+        if file.endswith('.pyc'):
+            shutil.copy(os.path.join(folderName, file), os.path.join(folderName, file + '.backup'))
+
+
+
+print('### Lesson 34. Walking a Directory Tree')
 print('#   ENDS HERE')
 print('#########################################################')
 print('')
