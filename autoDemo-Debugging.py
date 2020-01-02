@@ -126,6 +126,9 @@ print('### Lesson 37. Using the debugger')
 print('#   STARTS HERE')
 print('')
 
+print('Just took notes in comments')
+print('')
+
 # Debugger is a feature of IDLE
 # allows running code one line at a time
 

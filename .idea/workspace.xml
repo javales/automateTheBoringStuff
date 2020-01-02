@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="faac170d-f79b-4e25-b85a-96c963933f01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/autoDemo-Debugging.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/autoDemo-DebuggingErrorLog.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autoDemo-Debugging.py" beforeDir="false" afterPath="$PROJECT_DIR$/autoDemo-Debugging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autoDemo-DebuggingErrorLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/autoDemo-DebuggingErrorLog.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +59,14 @@
       <option name="presentableId" value="Default" />
       <updated>1577651887685</updated>
     </task>
+    <task id="LOCAL-00001" summary="Finished Lessons 35 through 37 in Section 12 Debugging">
+      <created>1578002039725</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578002039726</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,5 +84,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Finished Lessons 35 through 37 in Section 12 Debugging" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished Lessons 35 through 37 in Section 12 Debugging" />
   </component>
 </project>
