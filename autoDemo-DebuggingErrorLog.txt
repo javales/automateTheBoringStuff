@@ -1,0 +1,48 @@
+Traceback (most recent call last):
+  File "autoDemo-Debugging.py", line 41, in boxPrint
+    raise Exception('Symbol must be of length one')
+Exception: Symbol must be of length one
+Traceback (most recent call last):
+  File "autoDemo-Debugging.py", line 41, in boxPrint
+    raise Exception('Symbol must be of length one')
+Exception: Symbol must be of length one
+Traceback (most recent call last):
+  File "autoDemo-Debugging.py", line 41, in boxPrint
+    raise Exception('Symbol must be of length one')
+Exception: Symbol must be of length one
+Traceback (most recent call last):
+  File "autoDemo-Debugging.py", line 41, in boxPrint
+    raise Exception('Symbol must be of length one')
+Exception: Symbol must be of length one
+Traceback (most recent call last):
+  File "autoDemo-Debugging.py", line 43, in boxPrint
+    raise Exception('Symbol must be of length one')
+Exception: Symbol must be of length one
+Traceback (most recent call last):
+  File "autoDemo-Debugging.py", line 43, in boxPrint
+    raise Exception('Symbol must be of length one')
+Exception: Symbol must be of length one
+Traceback (most recent call last):
+  File "autoDemo-Debugging.py", line 43, in boxPrint
+    raise Exception('Symbol must be of length one')
+Exception: Symbol must be of length one
+Traceback (most recent call last):
+  File "autoDemo-Debugging.py", line 43, in boxPrint
+    raise Exception('Symbol must be of length one')
+Exception: Symbol must be of length one
+Traceback (most recent call last):
+  File "autoDemo-Debugging.py", line 43, in boxPrint
+    raise Exception('Symbol must be of length one')
+Exception: Symbol must be of length one
+Traceback (most recent call last):
+  File "autoDemo-Debugging.py", line 43, in boxPrint
+    raise Exception('Symbol must be of length one')
+Exception: Symbol must be of length one
+Traceback (most recent call last):
+  File "autoDemo-Debugging.py", line 43, in boxPrint
+    raise Exception('Symbol must be of length one')
+Exception: Symbol must be of length one
+Traceback (most recent call last):
+  File "autoDemo-Debugging.py", line 43, in boxPrint
+    raise Exception('Symbol must be of length one')
+Exception: Symbol must be of length one

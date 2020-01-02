@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="faac170d-f79b-4e25-b85a-96c963933f01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/filesDemo/filesDemoFile.pyc.backup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filesDemo/listThisFolderInOSWalk/1stWalkSubfolder/Harassment-Prevention-Non-Supervisors-2019.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filesDemo/listThisFolderInOSWalk/1stWalkSubfolder/Screen Shot 2019-12-01 at 11.15.00 PM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filesDemo/listThisFolderInOSWalk/1stWalkSubfolder/goldfish.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filesDemo/listThisFolderInOSWalk/AnotherWalkFolder/DKOldies_ NES.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filesDemo/listThisFolderInOSWalk/AnotherWalkFolder/restart.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filesDemo/myData.pyc.backup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoDemo-Debugging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoDemo-DebuggingErrorLog.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autoDemo-Files.py" beforeDir="false" afterPath="$PROJECT_DIR$/autoDemo-Files.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/openApendToThis.txt" beforeDir="false" afterPath="$PROJECT_DIR$/openApendToThis.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
