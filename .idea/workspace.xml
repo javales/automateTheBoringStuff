@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="faac170d-f79b-4e25-b85a-96c963933f01" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/autoDemo-Debugging.py" beforeDir="false" afterPath="$PROJECT_DIR$/autoDemo-Debugging.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autoDemo-DebuggingErrorLog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/autoDemo-DebuggingErrorLog.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RomeoAndJuliet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoDemo-WebBeautifulSoupModule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoDemo-WebBrowserModule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoDemo-WebRequestsModule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoDemo-WebSeleniumModule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/chardetect" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/bin/geckodriver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +75,16 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

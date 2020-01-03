@@ -1,0 +1,232 @@
+1578032851723	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/r7/dtt1x7z17sd1yfn8k3l9wj2c0000gr/T/rust_mozprofilenSv77o"
+1578032853405	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578032853405	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578032853406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578032853406	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1578032857083	Marionette	INFO	Listening on port 50747
+1578032857152	Marionette	WARN	TLS certificate errors will be ignored for this session
+1578033197865	Marionette	INFO	Stopped listening on port 50747
+1578033269625	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/r7/dtt1x7z17sd1yfn8k3l9wj2c0000gr/T/rust_mozprofileMS2Bna"
+1578033270344	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578033270344	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578033270344	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578033270345	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1578033273184	Marionette	INFO	Listening on port 52542
+1578033273218	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://blog.adafruit.com/app/plugins/jetpack/_inc/build/spin.min.js?ver=1.3, line 7: ReferenceError: module is not defined
+JavaScript error: https://blog.adafruit.com/app/plugins/jetpack/_inc/build/jquery.spin.min.js?ver=1.3, line 6: ReferenceError: require is not defined
+1578033309159	Marionette	INFO	Stopped listening on port 52542
+1578033480414	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/r7/dtt1x7z17sd1yfn8k3l9wj2c0000gr/T/rust_mozprofileyuCpdm"
+1578033481152	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578033481152	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578033481153	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578033481153	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1578033483872	Marionette	INFO	Listening on port 53535
+1578033483911	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+1578033801425	Marionette	INFO	Stopped listening on port 53535
+1578033805147	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/r7/dtt1x7z17sd1yfn8k3l9wj2c0000gr/T/rust_mozprofileIiBOC0"
+1578033805848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578033805848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578033805848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578033805848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1578033808329	Marionette	INFO	Listening on port 55005
+1578033808358	Marionette	WARN	TLS certificate errors will be ignored for this session
+1578034207569	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/r7/dtt1x7z17sd1yfn8k3l9wj2c0000gr/T/rust_mozprofile8Ptz5e"
+1578034208618	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578034208618	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578034208618	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578034208618	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1578034212560	Marionette	INFO	Listening on port 56821
+1578034212625	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.adafruit.com/adabox, line 131: TypeError: el is undefined
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+1578035629521	Marionette	INFO	Stopped listening on port 56821
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+1578035636106	Marionette	INFO	Stopped listening on port 55005
+1578035640590	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/r7/dtt1x7z17sd1yfn8k3l9wj2c0000gr/T/rust_mozprofileLQiGil"
+1578035641352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578035641353	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578035641353	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578035641353	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1578035644251	Marionette	INFO	Listening on port 62764
+1578035644518	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.adafruit.com/adabox, line 131: TypeError: el is undefined
+[Parent 84128, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1578035684299	Marionette	INFO	Stopped listening on port 62764
+1578035689665	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/r7/dtt1x7z17sd1yfn8k3l9wj2c0000gr/T/rust_mozprofileltz6r2"
+1578035690372	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578035690373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578035690373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578035690373	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1578035693504	Marionette	INFO	Listening on port 63117
+1578035693589	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.adafruit.com/adabox, line 131: TypeError: el is undefined
+JavaScript error: https://www.adafruit.com/adabox, line 161: TypeError: el is undefined
+JavaScript error: https://www.adafruit.com/adabox, line 191: TypeError: el is undefined
+2020-01-02 23:15:02.997 plugin-container[84669:742387] PLClientLogging: unknown permission type 2
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+1578035824474	Marionette	INFO	Stopped listening on port 63117
+1578036026611	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/r7/dtt1x7z17sd1yfn8k3l9wj2c0000gr/T/rust_mozprofile9iH5H1"
+1578036027403	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578036027403	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578036027403	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578036027403	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1578036029877	Marionette	INFO	Listening on port 64655
+1578036029964	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.adafruit.com/adabox, line 131: TypeError: el is undefined
+JavaScript error: https://www.adafruit.com/adabox, line 131: TypeError: el is undefined
+JavaScript error: https://www.adafruit.com/adabox, line 161: TypeError: el is undefined
+JavaScript error: https://www.adafruit.com/adabox, line 191: TypeError: el is undefined
+1578036042532	Marionette	INFO	Stopped listening on port 64655
+1578036133925	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/r7/dtt1x7z17sd1yfn8k3l9wj2c0000gr/T/rust_mozprofilez4kG1c"
+1578036134613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578036134613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578036134613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578036134613	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1578036137171	Marionette	INFO	Listening on port 65286
+1578036137255	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.adafruit.com/adabox, line 131: TypeError: el is undefined
+1578036155988	Marionette	INFO	Stopped listening on port 65286
+1578036222789	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/r7/dtt1x7z17sd1yfn8k3l9wj2c0000gr/T/rust_mozprofilev4HwUu"
+1578036223480	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578036223480	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578036223480	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578036223480	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1578036225976	Marionette	INFO	Listening on port 49596
+1578036226011	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.adafruit.com/adabox, line 131: TypeError: el is undefined
+1578036244178	Marionette	INFO	Stopped listening on port 49596
+1578036604314	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/r7/dtt1x7z17sd1yfn8k3l9wj2c0000gr/T/rust_mozprofileBUbFmo"
+1578036605122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578036605122	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578036605123	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578036605123	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1578036607697	Marionette	INFO	Listening on port 51322
+1578036607750	Marionette	WARN	TLS certificate errors will be ignored for this session
+1578036626883	Marionette	INFO	Stopped listening on port 51322
+1578036677459	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/r7/dtt1x7z17sd1yfn8k3l9wj2c0000gr/T/rust_mozprofile7L72tv"
+1578036678252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578036678252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578036678253	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578036678253	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1578036680800	Marionette	INFO	Listening on port 51798
+1578036680868	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.adafruit.com/adabox, line 131: TypeError: el is undefined
+JavaScript error: https://www.adafruit.com/adabox, line 161: TypeError: el is undefined
+JavaScript error: https://www.adafruit.com/adabox, line 191: TypeError: el is undefined
+JavaScript error: https://www.adafruit.com/adabox, line 131: TypeError: el is undefined
+1578036708148	Marionette	INFO	Stopped listening on port 51798
+1578036711145	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/r7/dtt1x7z17sd1yfn8k3l9wj2c0000gr/T/rust_mozprofilecXReKL"
+1578036711902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578036711902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578036711902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578036711902	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1578036714400	Marionette	INFO	Listening on port 52106
+1578036714483	Marionette	WARN	TLS certificate errors will be ignored for this session
+1578036756981	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/r7/dtt1x7z17sd1yfn8k3l9wj2c0000gr/T/rust_mozprofile5Vcjbv"
+1578036757895	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578036757895	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578036757895	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578036757895	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1578036760375	Marionette	INFO	Listening on port 52416
+1578036760425	Marionette	WARN	TLS certificate errors will be ignored for this session
+2020-01-02 23:32:49.546 plugin-container[96189:775687] PLClientLogging: unknown permission type 2
+JavaScript error: https://www.adafruit.com/adabox, line 131: TypeError: el is undefined
+1578036780370	Marionette	INFO	Stopped listening on port 52416
+1578036785681	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/r7/dtt1x7z17sd1yfn8k3l9wj2c0000gr/T/rust_mozprofileHlhvDV"
+1578036786480	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578036786480	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578036786480	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578036786480	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1578036789465	Marionette	INFO	Listening on port 52714
+1578036789517	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.adafruit.com/adabox, line 131: TypeError: el is undefined
+JavaScript error: , line 0: uncaught exception: Object
+1578036885297	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/r7/dtt1x7z17sd1yfn8k3l9wj2c0000gr/T/rust_mozprofiledJpBUd"
+1578036887085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578036887085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578036887085	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578036887086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1578036890502	Marionette	INFO	Listening on port 53296
+1578036890536	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.adafruit.com/adabox, line 131: TypeError: el is undefined
+1578036918555	Marionette	INFO	Stopped listening on port 53296
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1578036923320	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/r7/dtt1x7z17sd1yfn8k3l9wj2c0000gr/T/rust_mozprofile1ORfOz"
+1578036924294	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578036924294	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578036924294	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578036924295	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1578036928193	Marionette	INFO	Listening on port 53653
+1578036928317	Marionette	WARN	TLS certificate errors will be ignored for this session
+1578036937473	Marionette	INFO	Stopped listening on port 53653
+1578037307663	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/r7/dtt1x7z17sd1yfn8k3l9wj2c0000gr/T/rust_mozprofilebhZC2P"
+1578037308766	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578037308766	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578037308766	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578037308766	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1578037312192	Marionette	INFO	Listening on port 55367
+1578037312246	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.adafruit.com/adabox, line 131: TypeError: el is undefined
+JavaScript error: https://www.adafruit.com/adabox, line 161: TypeError: el is undefined
+JavaScript error: https://www.adafruit.com/adabox, line 191: TypeError: el is undefined
+JavaScript error: https://www.adafruit.com/adabox, line 131: TypeError: el is undefined
+2020-01-02 23:42:08.793 plugin-container[2467:793886] PLClientLogging: unknown permission type 2
+1578037336911	Marionette	INFO	Stopped listening on port 55367
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1578037341035	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/r7/dtt1x7z17sd1yfn8k3l9wj2c0000gr/T/rust_mozprofilek5Pbl1"
+1578037342351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578037342351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578037342351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578037342351	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1578037345313	Marionette	INFO	Listening on port 55696
+1578037345420	Marionette	WARN	TLS certificate errors will be ignored for this session
+1578037354923	Marionette	INFO	Stopped listening on port 55696
+1578037360128	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/r7/dtt1x7z17sd1yfn8k3l9wj2c0000gr/T/rust_mozprofileAlH9WT"
+1578037361029	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1578037361030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1578037361030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1578037361030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1578037363807	Marionette	INFO	Listening on port 55942
+1578037363877	Marionette	WARN	TLS certificate errors will be ignored for this session
+1578037369375	Marionette	INFO	Stopped listening on port 55942
