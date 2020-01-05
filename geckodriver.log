@@ -230,3 +230,14 @@ IPDL protocol error: Handler returned error code!
 1578037363807	Marionette	INFO	Listening on port 55942
 1578037363877	Marionette	WARN	TLS certificate errors will be ignored for this session
 1578037369375	Marionette	INFO	Stopped listening on port 55942
+[Parent 96467, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 728
+1578039405238	Marionette	INFO	Stopped listening on port 52714
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1578039405655	Marionette	INFO	Stopped listening on port 52106

@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="faac170d-f79b-4e25-b85a-96c963933f01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/RomeoAndJuliet.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/autoDemo-WebBeautifulSoupModule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/autoDemo-WebBrowserModule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/autoDemo-WebRequestsModule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/autoDemo-WebSeleniumModule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/chardetect" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/venv/bin/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoDemo-ControllingMouse.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/geckodriver.log" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
