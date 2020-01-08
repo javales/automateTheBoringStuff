@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="faac170d-f79b-4e25-b85a-96c963933f01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/example.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoDemo-ExcelSpreadsheetsEditing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exampleSave.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autoDemo-ReadingExcelSpreadsheets.py" beforeDir="false" afterPath="$PROJECT_DIR$/autoDemo-ReadingExcelSpreadsheets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autoDemo-ReadingExcelSpreadsheets.py" beforeDir="false" afterPath="$PROJECT_DIR$/autoDemo-ExcelSpreadsheetsReading.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
