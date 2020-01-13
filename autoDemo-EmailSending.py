@@ -25,7 +25,7 @@ print(conn.starttls())
 print('')
 
 print('Start login:')
-print(conn.login('sunnyvale.ryder@gmail.com','spmkqrhopvghpdvv'))
+print(conn.login('sunnyvale.ryder@gmail.com','*********'))
 
 print('Sending Mail:')
 print(conn.sendmail('sunnyvale.ryder@gmail.com','jimmyvales@gmail.com','Subject: You got mail!\n\nHey,\nThis is a bot, one last-last time!'))
