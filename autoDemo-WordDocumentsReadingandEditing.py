@@ -22,4 +22,4 @@ print('')
 
 # all paragraph objects have a add_run() method
 
-# More Documentation: https://python-docx.readthedocs.org
+# More Documentation: https://python-docx.1readthedocs.org
